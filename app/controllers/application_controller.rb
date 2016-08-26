@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render html: "dsvfd!"
+    render html: "dima!"
   end
 end
